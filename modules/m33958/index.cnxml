@@ -1,0 +1,74 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Searching the Connexions Web Site</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33958</md:content-id>
+  <md:title>Searching the Connexions Web Site</md:title>
+  <md:abstract>How to launch a search, the parts of a search results and refining a search with limiting factors.</md:abstract>
+  <md:uuid>cad29768-0341-48c2-9fd4-6cfce35fffba</md:uuid>
+</metadata>
+<content>
+    <section id="id21313291">
+      <title>Starting a Search</title>
+      <para id="id21313298">The best way to learn about how to search is to get a little bit of understanding and then practice (play around with searching). Within Connexions you can launch a search in one of two ways:</para>
+      <list id="id21313311" list-type="enumerated" number-style="arabic">
+        <item>Via the Content Tab</item>
+        <item>Via the Search Box</item>
+      </list>
+      <para id="id21313328">In the examples below, we demonstrate the two methods by searching for “Programming”.</para>
+      <figure id="id21313341">
+        <media id="id21313341_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-cbcd.jpg" id="id21313341__onlineimage" height="450" width="600"/>
+        </media>
+        <caption>Type in “Programming” via the Content tab</caption>
+      </figure>
+    </section>
+    <section id="id21313402">
+      <title>Results of the Search</title>
+      <para id="id21313409">Both of the above methods result in the Connexions web site looking for the word “programming” anywhere within the repository including the title, keywords, summary and module content. The results of the above search are:</para>
+      <para id="id21313425">
+        <figure id="id21313429">
+          <media id="id21313429_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-f5bd.jpg" id="id21313429__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Search results from “Programming”</caption>
+        </figure>
+      </para>
+      <para id="id21313458">The parts and general information about the search results are as follows:</para>
+      <list id="id21313464" list-type="enumerated" number-style="arabic">
+        <item>Limit search to: - An area where you can check or select additional limiting factors to reduce the search results.<list id="id21313477" list-type="bulleted" bullet-style="bullet"><item>Title – At least one of the search words must be in the module or collection title</item><item>Author – At least one of the search words must be in the author’s name</item><item>Collections – Return only collections (no modules)</item><item>Subjects Pull Down – Pick from one of the subject areas identified by authors when they create modules or collections</item></list></item>
+        <item>View – “Lens” is the normal default. The user (or viewer) may choose from the following views which always show the title and author, plus:<list id="id21313520" list-type="bulleted" bullet-style="bullet"><item>Detail – shows the author’s institution, keywords and summary for the module or collection; if they exist</item><item>Compact – shows only the title and author</item><item>Statistics – shows total view, views per day, percentile ranking and raw module count ranking. Since there are over 15,000 modules and collections, any raw ranking of 1,500 or lower would be in the top 10% of materials viewed. The percentile ranking may be more useful because it will not be distorted over time. As the Connexions repository grows (let’s say to 30,000 modules and collections) the raw ranking of 1,500 or lower would represent the top 5% of the repository.Statistics might be a <emphasis effect="bold">measure of quality</emphasis>, but you should consider that usage (forced upon students using a collection as a textbook) and quality are not necessarily interchangeable.</item></list></item>
+        <item>Sort sequence – Usually in “Type” sequence which places the “Selected Content” (Item 6) with collections first and modules second; each group sorted alphabetically. The user (or viewer) of the lens may choose from the following sort sequences:<list id="id21313588" list-type="bulleted" bullet-style="bullet"><item>Relevance</item><item>Popularity</item><item>Language</item><item>Revision Date</item><item>Title</item><item>Type</item><item>Rating – As rated by viewers of the modules. This feature was added during 2009 and may not be useful until more people rate modules within the Connexions repository. If rated by several people, it can be used as a <emphasis effect="bold">measure of quality</emphasis>.</item></list></item>
+        <item>How many items show per page – adjustable by the user (or viewer) of the lens</item>
+      </list>
+    </section>
+    <section id="id21313650">
+      <title>Refining a Search</title>
+      <para id="id21313656">The following slides show taking the results and adding additional search limiting factors to reduce the search results.</para>
+      <list id="id21313666" list-type="enumerated" number-style="arabic">
+        <item>Programming</item>
+        <item>Limiting the search to the Science and Technology subjects</item>
+        <item>Limiting the search to modules or collections that have “programming” in the title</item>
+        <item>Limiting the search to only collections</item>
+        <item>Adding an author’s name to the search box and limiting the search to collections that have “programming” or “Busbee” in the title and also have “programming” or “Busbee” in the author’s name</item>
+      </list>
+      <figure id="id21313711">
+        <media id="id21313711_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-a690.jpg" id="id21313711__onlineimage" height="450" width="600"/>
+        </media>
+        <caption>Search Results 1, 2 and 3</caption>
+      </figure>
+      <para id="id21313739">
+        <figure id="id21313743">
+          <media id="id21313743_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5.jpg" id="id21313743__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Search Results 4 and 5</caption>
+        </figure>
+      </para>
+    </section>
+    <section id="id21313772">
+      <title>Practice Searching</title>
+      <para id="id21313778">The best way to understand how to do searching is to practice or play with them. A suggestion is to practice all of the items in this module. Remember, over time additional items will be added to the repository and your search results may vary.</para>
+    </section>
+  </content>
+</document>

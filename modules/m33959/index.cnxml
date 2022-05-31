@@ -1,0 +1,54 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Browsing the Connexions Web Site</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33959</md:content-id>
+  <md:title>Browsing the Connexions Web Site</md:title>
+  <md:abstract>How to use the browse feature on the Connexions web site.</md:abstract>
+  <md:uuid>83ed95fa-4112-4c68-9b43-7d774a662783</md:uuid>
+</metadata>
+<content>
+    <section id="id1169727886973">
+      <title>Browsing</title>
+      <para id="id1169727995731">The best way to learn about how to browse is to get a little bit of understanding and then practice (play around with the browse feature). </para>
+      <figure id="id1169727558406">
+        <media id="id1169727558406_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-d384.jpg" id="id1169727558406__onlineimage" height="450" width="600"/>
+        </media>
+        <caption>Content Tab reveals the Browse Content area</caption>
+      </figure>
+      <para id="id1169728305858">Browse has limited uses. After selecting an item from the “1. Browse” box; the “2. Refine” box will provide a second set of limiting choices. Often the limiting choices are the alphabet and you select a letter. When it shows the list you scroll down and select the item you want. Let’s show one practical examples: searching for an author. </para>
+    </section>
+    <section id="id1169727783844">
+      <title>Author Example</title>
+      <para id="id1169727912086">Let’s search for content created by Kenneth Leroy Busbee.</para>
+      <para id="id1169727929317">
+        <figure id="id1169734533167">
+          <media id="id1169734533167_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-9416.jpg" id="id1169734533167__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Browsing for an Author – Slide 1</caption>
+        </figure>
+      </para>
+      <para id="id1169727559728">
+        <figure id="id1169731620774">
+          <media id="id1169731620774_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-6374.jpg" id="id1169731620774__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Browsing for an Author – Slide 2</caption>
+        </figure>
+      </para>
+      <para id="id1169728984313">
+        <figure id="id1169728098650">
+          <media id="id1169728098650_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-f8ae.jpg" id="id1169728098650__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Browsing for an Author – Slide 3</caption>
+        </figure>
+      </para>
+    </section>
+    <section id="id1169728000256">
+      <title>Practice Browsing</title>
+      <para id="id1169729322920">The best way to understand how to do browsing is to practice or play with it. Remember, over time additional items will be added to the repository and your browse results will change.</para>
+    </section>
+  </content>
+</document>
