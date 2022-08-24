@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Kenneth Leroy Busbee">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11188</md:content-id>
     <md:title>How to Search and Browse the Connexions Web Site</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>642e5f51-8f59-4160-bb5b-0248f5a75ddf</md:uuid>
-<md:slug>how-to-search-and-browse-the-connexions-web-site</md:slug>
-</metadata>
+    <md:slug>how-to-search-and-browse-the-connexions-web-site</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m33958"/>
     <col:module document="m33959"/>
